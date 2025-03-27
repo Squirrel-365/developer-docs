@@ -1,8 +1,4 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTY1MjE3Mzk3Ng&ixlib=rb-1.2.1&q=85
-coverY: 0
----
+![](<https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTY1MjE3Mzk3Ng&ixlib=rb-1.2.1&q=85>)
 
 # Introduction
 
