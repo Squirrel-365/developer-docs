@@ -1,5 +1,5 @@
-![](<https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTY1MjE3Mzk3Ng&ixlib=rb-1.2.1&q=85>)
 
+<img src="https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8ZGV2ZWxvcGVyfGVufDB8fHx8MTY1MjE3Mzk3Ng&ixlib=rb-1.2.1&q=85" height="150">
 # Introduction
 
 ## Introduction to addons <a href="#inlineextension-introduction-to-addons" id="inlineextension-introduction-to-addons"></a>
